@@ -67,4 +67,11 @@ public class EmployeeService {
     }
 
 
+    @Transactional(readOnly = true)
+    public long buscaQuantidadeDeEmpregados() {
+        final long count = employeeRepository.count();
+        return count;
+    }
+
+
 }

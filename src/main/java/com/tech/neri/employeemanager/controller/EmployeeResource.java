@@ -64,4 +64,11 @@ public class EmployeeResource {
         return new ResponseEntity<>(newsEmployees, HttpStatus.CREATED);
     }
 
+    @GetMapping("/countEmployees")
+    public ResponseEntity<Long> buscaQuantidadeDeEmpregados() {
+        final long l = employeeService.buscaQuantidadeDeEmpregados();
+        return new ResponseEntity<>(l, HttpStatus.OK);
+
+    }
+
 }
