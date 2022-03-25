@@ -1,0 +1,56 @@
+{
+    "name":"Peter Paul",
+    "email":"peter@email.com",
+    "jobTitle":"Software Developer",
+    "phone":"+55 24 993456709",
+    "imageUrl":"https://bootdey.com/img/Content/avatar/avatar1.png"
+},
+{
+    "name":"Mary Jane",
+    "email":"mj@email.com",
+    "jobTitle":"Software Developer Front-end",
+    "phone":"+55 24 9934567033",
+    "imageUrl":"https://bootdey.com/img/Content/avatar/avatar3.png"
+},
+{
+    "name":"Lari Neri",
+    "email":"lari.n@email.com",
+    "jobTitle":"Software Analyst",
+    "phone":"+55 24 993436709",
+    "imageUrl":"https://bootdey.com/img/Content/avatar/avatar8.png"
+},
+{
+    "name":"Calopsta",
+    "email":"calop@email.com",
+    "jobTitle":"Software Developer Back-end",
+    "phone":"+55 24 993456709",
+    "imageUrl":"https://bootdey.com/img/Content/avatar/avatar2.png"
+},
+{
+    "name":"Rambo",
+    "email":"rambo@email.com",
+    "jobTitle":"Soldier",
+    "phone":"+1 24 345456709",
+    "imageUrl":"https://bootdey.com/img/Content/avatar/avatar4.png"
+},
+{
+    "name":"Hary Potter",
+    "email":"hp@email.com",
+    "jobTitle":"Student",
+    "phone":"+00 24 3334567033",
+    "imageUrl":"https://bootdey.com/img/Content/avatar/avatar5.png"
+},
+{
+    "name":"Einstein",
+    "email":"emc2@email.com",
+    "jobTitle":"Cientist",
+    "phone":"+55 24 993436709",
+    "imageUrl":"https://bootdey.com/img/Content/avatar/avatar6.png"
+},
+{
+    "name":"Batmam",
+    "email":"batman@email.com",
+    "jobTitle":"Hero",
+    "phone":"+55 22 993456709",
+    "imageUrl":"https://bootdey.com/img/Content/avatar/avatar7.png"
+}
